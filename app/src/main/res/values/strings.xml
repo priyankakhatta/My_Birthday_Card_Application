@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Birthday Card Application</string>
+    <string name="happy_birthday_pri">Happy Birthday, Pri!</string>
+    <string name="todo">TODO</string>
+</resources>
